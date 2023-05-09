@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testTypeFormDeployment/static/css/main.bec84766.css",
+    "main.js": "/testTypeFormDeployment/static/js/main.8a4a371e.js",
+    "static/js/787.ba327cab.chunk.js": "/testTypeFormDeployment/static/js/787.ba327cab.chunk.js",
+    "index.html": "/testTypeFormDeployment/index.html",
+    "main.bec84766.css.map": "/testTypeFormDeployment/static/css/main.bec84766.css.map",
+    "main.8a4a371e.js.map": "/testTypeFormDeployment/static/js/main.8a4a371e.js.map",
+    "787.ba327cab.chunk.js.map": "/testTypeFormDeployment/static/js/787.ba327cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec84766.css",
+    "static/js/main.8a4a371e.js"
+  ]
+}
